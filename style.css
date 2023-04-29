@@ -192,6 +192,8 @@ main {
 
 }
 
+
+
 .Baixar a {
     text-decoration: none;
     color: #111111;
@@ -284,7 +286,7 @@ main {
  
 
     
-    width: 35vw;
+    width: 15vw;
     height: 80vh;
     position: relative;
     display:flex;
@@ -383,7 +385,13 @@ main {
     
 }
 .Botao-login:hover {
-    box-shadow: 0px 0px 35px 0px #48FFFF;
+    
+    background: #172929;
+    color: #48FFFF;
+    border: 1px solid #48FFFF;
+    border-radius: 7px;
+    box-sizing: border-box;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     transition: all 0.4s ease;
 
 }
@@ -392,6 +400,8 @@ main {
     position: relative;
     flex-direction: column;
 }
+
+.
 
 
 
